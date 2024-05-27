@@ -10,7 +10,7 @@
 ![imannig's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnandaAnugrahHandyanto&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnandaAnugrahHandyanto&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-%401mnt-9cf?logo=telegram)](https://t.me/DeanPerformer)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-%401mnt-9cf?logo=telegram)](https://t.me/1mnt)
 
 <!---
 AnandaAnugrahHandyanto/AnandaAnugrahHandyanto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
