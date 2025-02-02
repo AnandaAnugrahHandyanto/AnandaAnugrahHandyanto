@@ -1,4 +1,5 @@
-- Hi, I'm Ananda Anugrah Handyanto from Bogor, Indonesia. Maintainer Android Custom Rom.
+<h1 align="center">Hi 👋, I'm Ananda Anugrah Handyanto</h1>
+<h3 align="center">From Indonesia</h3>
 
 - 🔭 I’m currently working on POCO X6 5G/Redmi Note 13 Pro 5G, POCO M5/REDMI 11 Prime, Redmi Note 10, Redmi Note 7.
 - 👀 I'am interested in my hobbies and work.
