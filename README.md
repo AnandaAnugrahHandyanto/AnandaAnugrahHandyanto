@@ -7,7 +7,6 @@
 - 💞️ I would like to collaborate on Linux development.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnandaAnugrahHandyanto&label=Profile%20views&color=0e75b6&style=flat" alt="AnandaAnugrahHandyanto" /> </p>
-<a href="https://sourceforge.net/projects/premiumprjktrom/files/" target="_blank"><img src="https://img.shields.io/badge/sourceforge-profile-orange?style=for-the-badge&logo=sourceforge">
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AnandaAnugrahHandyanto&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
