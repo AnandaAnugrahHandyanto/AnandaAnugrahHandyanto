@@ -62,8 +62,8 @@ const AnandaAnugrahHandyanto = {
 **Tools & Platforms:**  
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 
 ---
