@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there, I'm Ananda Anugrah Handyanto 👋</h1>
 
 <p align="center">
@@ -15,51 +14,51 @@
 ### 👨‍💻 About Me
 
 ```js
-const AnandaAnugrahHandyanto = {
-  name: "Ananda Anugrah Handyanto",
+const anandaAnugrahHandyanto = {
+  name: 'Ananda Anugrah Handyanto',
   titles: [
-    "Full-Stack Web Developer",
-    "Android Custom ROM Maintainer",
-    "Linux Kernel Contributor (Android)"
+    'Full-Stack Web Developer',
+    'Android Custom ROM Maintainer',
+    'Linux Kernel Contributor (Android)',
   ],
   hobbies: [
-    "Fingerstyle Guitar",
-    "UI/UX Design",
-    "Tech Blogging",
-    "Kernel Hacking"
+    'Fingerstyle Guitar',
+    'UI/UX Design',
+    'Tech Blogging',
+    'Kernel Hacking',
   ],
   currentFocus: [
-    "AI-integrated Web Apps",
-    "Company Profile Platforms",
-    "Performance-tuned Android ROMs"
+    'AI-integrated Web Apps',
+    'Company Profile Platforms',
+    'Performance-tuned Android ROMs',
   ],
-  motto: "Design with clarity, build with purpose, optimize with passion.",
+  motto: 'Design with clarity, build with purpose, optimize with passion.',
   contact: {
-    email: "deanperformer77@gmail.com",
-    github: "https://github.com/AnandaAnugrahHandyanto",
-    instagram: "https://instagram.com/nando_fiingerstyle"
-  }
+    email: 'deanperformer77@gmail.com',
+    github: 'https://github.com/AnandaAnugrahHandyanto',
+    instagram: 'https://instagram.com/nando_fiingerstyle',
+  },
 }
 ```
 
-- 💻 Passionate about building impactful web applications  
-- 🌱 Currently learning TypeScript, Next.js, and AI APIs  
-- 🔧 Strong in frontend logic, backend integration & clean UI  
-- 💬 Ask me anything about web development or GitHub projects  
+- 💻 Passionate about building impactful web applications
+- 🌱 Currently learning TypeScript, Next.js, and AI APIs
+- 🔧 Strong in frontend logic, backend integration & clean UI
+- 💬 Ask me anything about web development or GitHub projects
 - 🎸 Fun fact: I love fingerstyle guitar and clean code equally
 
 ---
 
 ### 🚀 Tech Stack & Tools
 
-**Languages & Frameworks:**  
+**Languages & Frameworks:**
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
+![PHP](https://img.shields.io/badge/-PHP-4479A1?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
-**Tools & Platforms:**  
+**Tools & Platforms:**
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
@@ -80,17 +79,18 @@ const AnandaAnugrahHandyanto = {
 
 ### 🔥 Highlighted Projects
 
-| 🚀 Project | 📋 Description | 🛠️ Tech Stack |
-|-----------|----------------|---------------|
-| **🎯 Keen-Chips** <br> <sup>*Keripik Basreng Menu App*</sup> | A modern food menu web app tailored for F&B businesses, with clean UI and responsive design. | `HTML` · `CSS` · `JavaScript` · `PHP` |
-| **🧠 AI Chatbot** <br> <sup>*Kecerdasan Buatan App*</sup> | AI-powered chatbot built for human-like interaction, complete with conversation history. | `HTML` · `JavaScript` · `AI Logic` |
+| 🚀 Project                                                   | 📋 Description                                                                               | 🛠️ Tech Stack                         |
+| ------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ------------------------------------- |
+| **🎯 Keen-Chips** <br> <sup>_Keripik Basreng Menu App_</sup> | A modern food menu web app tailored for F&B businesses, with clean UI and responsive design. | `HTML` · `CSS` · `JavaScript` · `PHP` |
+| **🧠 AI Chatbot** <br> <sup>_Kecerdasan Buatan App_</sup>    | AI-powered chatbot built for human-like interaction, complete with conversation history.     | `HTML` · `JavaScript` · `AI Logic`    |
+
 ---
 
 ### 📫 Contact Me
 
 Let’s build something great together!
 
-- 📧 Email: [deanperformer77@gmail.com](mailto:deanperformer77@gmail.com)  
+- 📧 Email: [deanperformer77@gmail.com](mailto:deanperformer77@gmail.com)
 - 📷 Instagram: [@nando_fiingerstyle](https://instagram.com/nando_fiingerstyle)
 
 ---
