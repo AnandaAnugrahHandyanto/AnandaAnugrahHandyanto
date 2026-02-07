@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/AnandaAnugrahHandyanto"><img src="https://img.shields.io/github/followers/AnandaAnugrahHandyanto?label=Follow&style=social" /></a>
-  <a href="mailto:deanperformer77@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:savarezos.linux@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -34,7 +34,7 @@ const anandaAnugrahHandyanto = {
   ],
   motto: 'Design with clarity, build with purpose, optimize with passion.',
   contact: {
-    email: 'deanperformer77@gmail.com',
+    email: 'savarezos.linux@gmail.com',
     github: 'https://github.com/AnandaAnugrahHandyanto',
     instagram: 'https://instagram.com/nando_fiingerstyle',
   },
@@ -52,13 +52,15 @@ const anandaAnugrahHandyanto = {
 ### 🚀 Tech Stack & Tools
 
 **Languages & Frameworks:**
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![PHP](https://img.shields.io/badge/-PHP-4479A1?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 **Tools & Platforms:**
+
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
@@ -67,22 +69,23 @@ const anandaAnugrahHandyanto = {
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analysis
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnandaAnugrahHandyanto&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnandaAnugrahHandyanto&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnandaAnugrahHandyanto&layout=compact&theme=tokyonight" height="150" />
-</p>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnandaAnugrahHandyanto&show_icons=true&theme=tokyonight" height="200" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnandaAnugrahHandyanto&layout=compact&theme=tokyonight" height="200" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AnandaAnugrahHandyanto&theme=tokyonight" height="150"/>
 
 ---
 
-### 🔥 Highlighted Projects
+### 📊 GitHub Activity
 
-| 🚀 Project                                                   | 📋 Description                                                                               | 🛠️ Tech Stack                         |
-| ------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ------------------------------------- |
-| **🎯 Keen-Chips** <br> <sup>_Keripik Basreng Menu App_</sup> | A modern food menu web app tailored for F&B businesses, with clean UI and responsive design. | `HTML` · `CSS` · `JavaScript` · `PHP` |
-| **🧠 AI Chatbot** <br> <sup>_Kecerdasan Buatan App_</sup>    | AI-powered chatbot built for human-like interaction, complete with conversation history.     | `HTML` · `JavaScript` · `AI Logic`    |
+<p align="center">
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnandaAnugrahHandyanto&theme=tokyo-night" width="100%" />
+</p>
 
 ---
 
@@ -90,8 +93,8 @@ const anandaAnugrahHandyanto = {
 
 Let’s build something great together!
 
-- 📧 Email: [savarezos.linux@gmail.com](mailto:savarezos.linux@gmail.com)
-- 📷 Instagram: [@nando_fiingerstyle](https://instagram.com/nando_fiingerstyle)
+- 📧 **Email**: [savarezos.linux@gmail.com](mailto:savarezos.linux@gmail.com)
+- 📷 **Instagram**: [@nando_fiingerstyle](https://instagram.com/nando_fiingerstyle)
 
 ---
 
