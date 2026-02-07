@@ -70,9 +70,9 @@ const anandaAnugrahHandyanto = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnandaAnugrahHandyanto&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnandaAnugrahHandyanto&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AnandaAnugrahHandyanto&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandaAnugrahHandyanto&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnandaAnugrahHandyanto&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
