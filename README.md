@@ -90,7 +90,7 @@ const anandaAnugrahHandyanto = {
 
 Let’s build something great together!
 
-- 📧 Email: [deanperformer77@gmail.com](mailto:deanperformer77@gmail.com)
+- 📧 Email: [savarezos.linux@gmail.com](mailto:savarezos.linux@gmail.com)
 - 📷 Instagram: [@nando_fiingerstyle](https://instagram.com/nando_fiingerstyle)
 
 ---
